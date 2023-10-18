@@ -29,7 +29,7 @@ const SpecialOffer = () =>{
 
 <div className="mt-11 flex gap-10">
     <Button label="View details"/> 
-    <Button label="Learn more" backgroundColor="bg-white" borderColor="border-slate-gray" textColor="text-slate-gray"  />
+    {/* <Button label="Learn more" backgroundColor="bg-white" borderColor="border-slate-gray" textColor="text-slate-gray"  /> */}
     </div>
 
             </div>
